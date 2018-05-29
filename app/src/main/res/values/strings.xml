@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="about">Mithun Das\n
+        Department of CSE,UAP\n
+        Email:mithuncse404@gmail.com
+
+
+    </string>
+</resources>
